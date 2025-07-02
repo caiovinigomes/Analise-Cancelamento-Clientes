@@ -29,7 +29,7 @@ Para rodar este projeto em sua máquina, siga os passos abaixo:
 1.  **Clone o repositório:**
     Abra seu terminal ou prompt de comando e execute:
     ```bash
-    git clone [https://github.com/caiovinigomes/Analise-Cancelamento-Clientes](https://github.com/caiovinigomes/Analise-Cancelamento-Clientes)
+    git clone https://github.com/caiovinigomes/Analise-Cancelamento-Clientes.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
